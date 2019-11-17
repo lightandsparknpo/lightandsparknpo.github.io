@@ -17,3 +17,17 @@ fields:
 - type: list
   name: tags
   label: Tags
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Past event
+    - Upcoming event
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
