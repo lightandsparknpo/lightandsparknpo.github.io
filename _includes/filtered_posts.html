@@ -1,7 +1,6 @@
 <div class="posts-list">
-{% assign tobi = "Past event" %}
   {% for post in paginator.posts limit: 3 %}
-  {% if post.category == tobi %}
+  {% if post.category == "Past event"  %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
