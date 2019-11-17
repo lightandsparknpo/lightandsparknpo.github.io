@@ -18,3 +18,5 @@ fields:
 - name: formspree
   type: boolean
   label: Include formspree contact form
+pages:
+- aboutme.md
