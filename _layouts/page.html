@@ -32,7 +32,7 @@ layout: base
 	    <p>yes 1a</p>
 	{% if page.include-upcoming-events %}
 	    <p>Yes 1</p>
-		{% include filtered_posts.html filterKey="Upcoming event" %}
+		{% include filtered_posts.html %}
 	{% endif %}
     </div>
   </div>
@@ -41,7 +41,7 @@ layout: base
 	    <p>yes 2a</p>
 	{% if page.include-past-events %}
 	    <p>Yes 2</p>
-		{% include filtered_posts.html filterKey="Past event" %}
+		{% include filtered_posts.html %}
 	{% endif %}
     </div>
   </div>
