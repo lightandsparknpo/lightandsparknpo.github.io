@@ -4,10 +4,17 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: subtitle
-  label: subtitle
+  label: Subtitle
+- name: use-site-title
+  type: boolean
+  label: Use site title
+  default: false
+- name: formspree
+  type: boolean
+  label: Include formspree contact form
