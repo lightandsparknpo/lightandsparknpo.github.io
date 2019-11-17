@@ -18,6 +18,12 @@ fields:
 - name: formspree
   type: boolean
   label: Include formspree contact form
+- name: include-past-events
+  type: boolean
+  label: Include past events
+- name: include-upcoming-events
+  type: boolean
+  label: Include upcoming events
 pages:
 - index.html
 - aboutme.md
