@@ -1,5 +1,5 @@
 <div class="posts-list">
-  {% for post in paginator.posts limit: 3 %}
+  {% for post in paginator.posts limit:3 %}
   {% if post.category == "Past event"  %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
