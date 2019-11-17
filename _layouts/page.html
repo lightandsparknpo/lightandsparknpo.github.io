@@ -27,4 +27,18 @@ layout: base
 	{% endif %}
     </div>
   </div>
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	{% if page.include-upcoming-events %}
+		{% include filtered_posts.html filterKey="Upcoming event" %}
+	{% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	{% if page.include-past-events %}
+		{% include filtered_posts.html filterKey="Past event" %}
+	{% endif %}
+    </div>
+  </div>
 </div>
