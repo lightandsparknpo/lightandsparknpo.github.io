@@ -26,5 +26,4 @@ fields:
   label: Include upcoming events
 pages:
 - index.md
-- index.html
 - aboutme.md
