@@ -29,19 +29,17 @@ layout: base
   </div>
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	    <p>yes 1a</p>
+	    <h3>Upcoming events</h3>
 	{% if page.include-upcoming-events %}
-	    <p>Yes 1</p>
-		{% include filtered_posts.html %}
+		{% include filtered_posts.html filteredKey="Upcoming event" %}
 	{% endif %}
     </div>
   </div>
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	    <p>yes 2a</p>
+    <h3>Past events</h3>
 	{% if page.include-past-events %}
-	    <p>Yes -2</p>
-		{% include filtered_posts.html %}
+		{% include filtered_posts.html filteredKey="Past event" %}
 	{% endif %}
     </div>
   </div>
