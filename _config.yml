@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Light & Spark NPO
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Light & Spark NPO is a non-profit educational event that aims at teaching IT students industry relevant technologies and providing NGO's an online presence.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
