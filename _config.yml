@@ -16,6 +16,8 @@ description: Light & Spark NPO is a non-profit educational event that aims at te
 # baseurl should be an empty string
 #baseurl: ""
 
+formspree: true
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
