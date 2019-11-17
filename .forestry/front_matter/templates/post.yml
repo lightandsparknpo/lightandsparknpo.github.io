@@ -31,3 +31,5 @@ fields:
       file: 
       path: 
   label: Category
+pages:
+- _posts/2015-02-26-flake-it-till-you-make-it.md
