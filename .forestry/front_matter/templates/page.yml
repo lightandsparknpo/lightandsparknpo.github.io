@@ -11,10 +11,11 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
-- name: use-site-title
-  type: boolean
-  label: Use site title
-  default: false
+- name: bigimg
+  type: file
+  config:
+    maxSize: 250
+  label: Hero image
 - name: formspree
   type: boolean
   label: Include formspree contact form
@@ -24,6 +25,10 @@ fields:
 - name: include-upcoming-events
   type: boolean
   label: Include upcoming events
+- name: use-site-title
+  type: boolean
+  label: Use site title
+  default: false
 pages:
 - index.md
 - aboutme.md
