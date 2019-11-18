@@ -30,5 +30,6 @@ fields:
   label: Use site title
   default: false
 pages:
+- about.md
 - index.md
 - contact.md
