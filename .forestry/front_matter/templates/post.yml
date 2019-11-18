@@ -23,8 +23,8 @@ fields:
   config:
     required: false
     options:
-    - Past event
-    - Upcoming event
+    - Past events
+    - Upcoming events
     source:
       type: simple
       section: 
