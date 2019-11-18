@@ -4,6 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 use-site-title: false
 formspree: false
+include-past-events: false
+include-upcoming-events: false
+bigimg: ''
 
 ---
 My name is Inigo Montoya. I have the following qualities:
