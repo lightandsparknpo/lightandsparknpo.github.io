@@ -32,5 +32,6 @@ fields:
       path: 
   label: Category
 pages:
+- _posts/2015-01-15-pirates.md
 - _posts/2015-01-04-first-post.md
 - _posts/2015-02-26-flake-it-till-you-make-it.md
