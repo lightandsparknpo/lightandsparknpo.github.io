@@ -280,7 +280,9 @@ footer p.text-muted {
   color: {{ site.footer-text-col }};
 }
 
-footer a {
+footer a,
+footer a:hover,
+footer a:focus {
   color: {{site.footer-link-col}};
 }
 
