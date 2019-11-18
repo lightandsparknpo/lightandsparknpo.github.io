@@ -1,24 +1,20 @@
-# --- General options --- #
+# General options
+# ---------------------------
 
-# Name of website
 title: Light & Spark NPO
-
-# Short description of your site
 description: Light & Spark NPO is a non-profit educational event that aims at teaching IT students industry relevant technologies and providing NGO's an online presence.
+url: "https://lightandsparknpo.github.io"
+baseurl: ""
 
-# --- Local development options ---
+
+# Local development options
+# ---------------------------
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
 
-# baseurl should be an empty string
-#baseurl: ""
-
-formspree: true
-
-# --- Navigation bar options --- #
+# Navigation bar options 
+# ---------------------------
 
 # List of links in the navigation bar
 navbar-links:
@@ -30,16 +26,16 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /uploads/lightandsparknpo.png
 
-# --- Background colour/image options --- #
+# Background colour/image options
+# ---------------------------------
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
@@ -52,17 +48,18 @@ footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
-
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
-# --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
+# Footer options
+# ---------------------------
+
+# Copyright section
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Light & Spark NPO
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,18 +71,18 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  #  reddit: yourname
+  #  linkedin: daattali
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  #  youtube: user/deanat78
+  #  spotify: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -95,69 +92,41 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "LightAndSparkNpo.github.io" 
 
-# --- Web Statistics Section --- #
 
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+# Site wide settings
+# ---------------------------
 
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+formspree: true
+# gtag: "" # Fill in your Google Analytics gtag.js ID to track your website using gtag
+# google_analytics: "" # Fill in your Google Analytics ID to track your website using GA
+# gtm: "" # Google Tag Manager ID
+# disqus: "" # Disqus shortname 
+# just-comments: "ABCD-EFGH-IJKL" # API Key
+# fb_comment_id: "" # To use Facebook Comments, fill in a Facebook App ID
+# fb_app_id: ""
+excerpt_length: 50
+title-separator: "-"
+date_format: "%B %-d, %Y" # Ruby Date Format
 
-# Google Tag Manager ID
-#gtm: ""
 
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
+# matomo:
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# --- Comments --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
-
-# If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
-
 # To use Staticman comments, fill in repository, branch, and endpoint
-staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-  reCaptcha:
+# staticman:
+  # repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  # branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  # endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  # reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    # siteKey  : # Use your own site key, you need to apply for one on Google
+    # secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
-# --- Misc --- #
-
-# Facebook App ID
-# fb_app_id: ""
-
-# Excerpt Word Length
-# Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
-
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
-title-separator: "-"
-
-# Ruby Date Format
-date_format: "%B %-d, %Y"
-
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
