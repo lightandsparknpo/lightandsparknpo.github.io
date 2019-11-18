@@ -272,12 +272,20 @@ footer {
   {% endif %}
 }
 
+footer .fa-inverse {
+  color: {{ site.footer-col }};
+}
+
 footer p.text-muted {
   color: {{ site.footer-text-col }};
 }
 
 footer a {
   color: {{site.footer-link-col}};
+}
+
+footer a:hover {
+  opacity:0.5
 }
 
 footer .list-inline {
