@@ -6,8 +6,8 @@ category: Upcoming events
 subtitle: Excerpt from Soulshaping by Jeff Brq
 bigimg: "/uploads/gateway-of-india-390768_1920-720x360.jpg"
 tags:
+- events
 - '2019'
-- '2018'
 
 ---
-This is my first post, how exciting!
+The truth is that no one else can definitively know under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk awa
