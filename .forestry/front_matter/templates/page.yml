@@ -18,7 +18,7 @@ fields:
   label: Hero image
 - name: formspree
   type: boolean
-  label: Include formspree contact form
+  label: Include contact form
 - name: include-past-events
   type: boolean
   label: Include past events
