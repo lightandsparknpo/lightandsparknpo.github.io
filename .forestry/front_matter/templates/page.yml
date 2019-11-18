@@ -31,5 +31,4 @@ fields:
   default: false
 pages:
 - index.md
-- aboutme.md
 - contact.md
