@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: "/img/hello_world.jpeg"
-category: Past events
+category: Upcoming events
 subtitle: Excerpt from Soulshaping by Jeff Brq
 bigimg: "/uploads/gateway-of-india-390768_1920-720x360.jpg"
 tags:
