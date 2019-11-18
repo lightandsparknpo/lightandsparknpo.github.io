@@ -1,7 +1,7 @@
 <h2>{{include.filteredKey}}</h2>
 
 <div class="posts-list">
-  {% for post in site.posts %}
+  {% for post in site.categories[include.filteredKey] %}
   {% if post.category == include.filteredKey %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
