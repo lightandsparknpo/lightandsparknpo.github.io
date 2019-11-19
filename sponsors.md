@@ -2,7 +2,7 @@
 layout: page
 title: Sponsors
 subtitle: ''
-bigimg: ''
+bigimg: "/uploads/together.jpg"
 formspree: false
 include-past-events: false
 include-upcoming-events: false
