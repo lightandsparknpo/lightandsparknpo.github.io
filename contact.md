@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subtitle: ''
-bigimg: ''
+bigimg: "/uploads/william-iven-SpVHcbuKi6E-unsplash.jpg"
 formspree: true
 include-past-events: false
 include-upcoming-events: false
