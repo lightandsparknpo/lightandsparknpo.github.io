@@ -2,7 +2,7 @@
 layout: post
 title: Mumbai 2018
 subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: "/img/path.jpg"
+bigimg: "/uploads/events.jpg"
 tags:
 - '2018'
 - mumbai
