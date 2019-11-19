@@ -30,6 +30,7 @@ fields:
   label: Use site title
   default: false
 pages:
+- index.md
 - events.md
 - contact.md
 - nonprofits.md
@@ -37,4 +38,3 @@ pages:
 - team.md
 - inspiration.md
 - about.md
-- index.md
