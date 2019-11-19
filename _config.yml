@@ -20,8 +20,6 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-    - Team: "team"
-    - Inspiration: "inspiration"
   Events: "events"
   Nonprofits: "nonprofits"
   Sponsors: "sponsors"
