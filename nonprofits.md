@@ -2,7 +2,7 @@
 layout: page
 title: Nonprofits
 subtitle: ''
-bigimg: ''
+bigimg: "/uploads/partner-share.jpg"
 formspree: false
 include-past-events: false
 include-upcoming-events: false
