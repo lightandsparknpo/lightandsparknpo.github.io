@@ -30,8 +30,8 @@ fields:
   label: Use site title
   default: false
 pages:
-- inspiration.md
 - team.md
+- inspiration.md
 - events.md
 - nonprofits.md
 - sponsors.md
