@@ -30,10 +30,10 @@ fields:
   label: Use site title
   default: false
 pages:
+- index.md
 - team.md
 - inspiration.md
 - about.md
-- index.md
 - events.md
 - contact.md
 - nonprofits.md

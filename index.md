@@ -6,7 +6,7 @@ subtitle: Light & Spark NPO is a non-profit educational event that aims at teach
 use-site-title: true
 formspree: false
 include-past-events: true
-include-upcoming-events: true
+include-upcoming-events: false
 bigimg: "/uploads/perry-grone-lbLgFFlADrY-unsplash.jpg"
 
 ---
