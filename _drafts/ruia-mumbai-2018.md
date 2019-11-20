@@ -1,0 +1,22 @@
+---
+category: Past events
+layout: post
+title: Ruia, Mumbai 2018
+subtitle: ''
+bigimg: "/uploads/events.jpg"
+tags:
+- events
+- '2018'
+
+---
+Light & Spark NPO’s first event happened on the 13th and 14th of January 2018 at Ramnarain Ruia College, Mumbai. This event hosted 36 Computer Science students and gave an online presence to 1 NGO – [Healing Dove Foundation](http://healingdovefoundation.org/) (update 2019: Healing Dove site currently offline).
+
+Throughout the event, the students were guided by their mentors who ensured that each student in their group learnt the concepts that we intended to teach – like Microsoft Azure, WordPress, Agile Scrum, Google Analytics and much more – and the team delivers a good quality product by the end of the second day. What we did, this time, was change the format slightly. We made 3 groups of 12 students each developing and delivering a website for the same NGO. Each website offered the NGO a variant of their final version, thus, giving them an option to select the best out of 3. We then incorporated the best student-team-designed website into the final website which is now online [here](http://healingdovefoundation.org/).
+
+We intended to make this entire 2-day experience as industry-like as possible, so we had the NGO representatives from Healing Dove with us throughout the event guiding the 3 student-teams on the requirements and contents of the website. We also had our design partner, Blacksheep Crafts, and 2 design students with us for the event helping the student-teams understand aspects from a design point-of-view. Because all of this had to be completed in just 2-days, the tasks that were given to the students was time-boxed, giving them a feel of working in a time-constrained scenario. The 4 technical mentors and the host-and-mentor of the event provided technical expertise to the student-teams.
+
+The general feedback from all the students was that they enjoyed their learning experience so much that they wanted this event to be for another day or two. Indeed, when you design such a hands-on, knowledge-filled event, every student benefits a million times. We look forward to executing many more events like these!
+
+Photo Album: [bit.ly/lsnporuiajan2018album](http://bit.ly/lsnporuiajan2018album)
+
+If you’re interested in partnering with us for/sponsoring our future events, [get in touch](/contact) with us today.
