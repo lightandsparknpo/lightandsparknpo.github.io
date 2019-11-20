@@ -30,8 +30,8 @@ fields:
   label: Use site title
   default: false
 pages:
-- team.md
 - about.md
+- team.md
 - index.md
 - events.md
 - contact.md
