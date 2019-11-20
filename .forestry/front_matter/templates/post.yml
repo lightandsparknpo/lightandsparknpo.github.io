@@ -11,6 +11,15 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- name: event-test-date
+  type: datetime
+  label: Event date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: file
   name: bigimg
   label: Hero image
