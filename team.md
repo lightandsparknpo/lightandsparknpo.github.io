@@ -2,7 +2,7 @@
 layout: page
 title: Team
 subtitle: ''
-bigimg: ''
+bigimg: "/uploads/team.jpg"
 formspree: false
 include-past-events: false
 include-upcoming-events: false
