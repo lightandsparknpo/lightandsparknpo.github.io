@@ -22,5 +22,12 @@ fields:
   config:
     required: false
   label: LinkedIn URL
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  hidden: true
+  default: team
 pages:
 - _posts/ClydeDSouza.md
