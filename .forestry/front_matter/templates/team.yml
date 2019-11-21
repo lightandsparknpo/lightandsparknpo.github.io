@@ -30,5 +30,6 @@ fields:
   hidden: true
   default: team
 pages:
+- _posts/KalyaniKale.md
 - _posts/SagarLone.md
 - _posts/2019-11-21-ClydeDSouza.md
