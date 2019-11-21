@@ -273,6 +273,8 @@ footer {
   background-image: url({{ site.footer-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
+  border-top: 7px solid #f64a06;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 footer .fa-inverse {
@@ -309,7 +311,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 34px 0;
   }
   footer .footer-links {
     font-size: 18px;
@@ -479,7 +481,7 @@ footer .theme-by {
 .intro-header.big-img .post-heading {
   padding: 100px 0;
   color: #FFF;
-  text-shadow: 1px 1px 3px #000;
+  text-shadow: 6px 1px 7px #0f2e42;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
