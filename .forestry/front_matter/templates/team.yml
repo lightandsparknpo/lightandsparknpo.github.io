@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: team
 pages:
+- _posts/ShahuBochare.md
 - _posts/2019-11-21-PranaliBhabad.md
 - _posts/MayurPoul.md
 - _posts/KalyaniKale.md
