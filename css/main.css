@@ -808,7 +808,7 @@ pre {
   margin-top: 4px;
 }
 
-.team-member h3.team-role {
+.team-member div.team-role {
   padding-bottom: 9px;
   font-size: 14px;
 }
