@@ -30,6 +30,7 @@ fields:
   hidden: true
   default: team
 pages:
+- _posts/PranaliBhabad.md
 - _posts/MayurPoul.md
 - _posts/KalyaniKale.md
 - _posts/SagarLone.md
