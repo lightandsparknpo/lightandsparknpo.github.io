@@ -805,8 +805,10 @@ pre {
 
 .team-member h3.team-name {
   padding-top: 0;
+  margin-top: 4px;
 }
 
 .team-member h3.team-role {
   padding-bottom: 9px;
+  font-size: 14px;
 }
