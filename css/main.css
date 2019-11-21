@@ -799,3 +799,14 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+
+/* Team */
+
+.team-member h3.team-name {
+  padding-top: 0;
+}
+
+.team-member h3.team-role {
+  padding-bottom: 9px;
+}
