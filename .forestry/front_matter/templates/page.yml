@@ -19,6 +19,9 @@ fields:
 - name: formspree
   type: boolean
   label: Include contact form
+- name: team
+  type: boolean
+  label: Include team information
 - name: include-past-events
   type: boolean
   label: Include past events
