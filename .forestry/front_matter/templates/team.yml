@@ -5,12 +5,12 @@ fields:
 - name: full_name
   type: text
   config:
-    required: false
+    required: true
   label: Full name
 - name: role
   type: text
   config:
-    required: false
+    required: true
   label: Role
 - name: profile_picture
   type: file
