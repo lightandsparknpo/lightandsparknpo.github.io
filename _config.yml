@@ -100,6 +100,7 @@ share-links-active:
 # ---------------------------
 
 formspree: true
+freshdesk: true
 # gtag: "" # Fill in your Google Analytics gtag.js ID to track your website using gtag
 # google_analytics: "" # Fill in your Google Analytics ID to track your website using GA
 # gtm: "" # Google Tag Manager ID
