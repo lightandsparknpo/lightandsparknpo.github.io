@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'Tag Index'
----
+title: Tags
 
+---
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
         {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
