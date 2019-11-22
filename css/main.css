@@ -26,7 +26,8 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 .h2, h2 {
-font-size: 34px;
+  font-size: 34px;
+  color: #0f2e42
 }
 a {
   color: {{ site.link-col }};
@@ -344,7 +345,8 @@ footer .theme-by {
 }
 
 .post-preview a:focus,
-.post-preview a:hover {
+.post-preview a:hover,
+.post-preview a:hover h3 {
   text-decoration: none;
   color: {{ site.hover-col }};
 }
