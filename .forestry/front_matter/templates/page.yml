@@ -33,9 +33,9 @@ fields:
   label: Use site title
   default: false
 pages:
+- index.md
 - team.md
 - events.md
-- index.md
 - inspiration.md
 - about.md
 - contact.md

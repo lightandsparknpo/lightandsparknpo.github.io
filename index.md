@@ -8,8 +8,11 @@ formspree: false
 include-past-events: true
 include-upcoming-events: false
 bigimg: "/uploads/perry-grone-lbLgFFlADrY-unsplash.jpg"
+team: false
 
 ---
+ ![](/uploads/lnsnpologo-100by100.jpg)
+
 Light & Spark NPO is a non-profit educational event that aims at teaching industry relevant technologies to IT/Computer-Science students and empower them to develop and deliver a website for an NGO over a period of 2 days. The host and mentor of this event is keen to share his experience that he has gathered while living in Auckland, New Zealand and give back to the community in every possible way.
 
 > _Without an excellent team, one cannot run an event like this. See the faces behind this event_ [_here_](/team)_._
