@@ -27,7 +27,6 @@ sections:
   new_doc_ext: md
   templates:
   - team
-  file_template: ":year:-:month:-:day:-:filename:"
 - type: heading
   label: Developer content
 - type: jekyll-posts
