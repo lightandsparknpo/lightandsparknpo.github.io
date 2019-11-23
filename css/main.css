@@ -339,14 +339,16 @@ footer .theme-by {
   border-bottom: 0;
 }
 
-.post-preview a {
+.post-preview a:not(.lnsnpo-active-button) {
   text-decoration: none;
   color: #404040;
 }
 
 .post-preview a:focus,
 .post-preview a:hover,
-.post-preview a:hover h3 {
+.post-preview a:hover h3,
+.post-preview a:focus:not(.lnsnpo-active-button),
+.post-preview a:hover:not(.lnsnpo-active-button) {
   text-decoration: none;
   color: {{ site.hover-col }};
 }
@@ -855,11 +857,13 @@ pre {
     border: 0;
     padding: 9px 17px;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    display: block;
+    display: inline;
     margin: 18px 0;
+    text-decoration: none;
 }
 
-.lnsnpo-active-button {
+.lnsnpo-active-button:hover {
   background-color: #f67418;
+  text-decoration: none;
 }
 
