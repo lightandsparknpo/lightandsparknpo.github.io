@@ -17,6 +17,14 @@ sections:
   templates:
   - team
   - post
+- type: directory
+  path: _team
+  label: Team
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - team
 - type: heading
   label: Developer content
 - type: directory
