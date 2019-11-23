@@ -29,5 +29,3 @@ fields:
   label: Category
   hidden: true
   default: team
-pages:
-- _posts/team/VirtualTeamMember.md
