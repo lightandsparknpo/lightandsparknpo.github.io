@@ -16,6 +16,8 @@ Light & Spark NPO is a non-profit educational initiative event that aims at teac
 
 For students, these 2-days will be a learning experience that will be guided by our 4 capable mentors and an overall mentor. Students will learn by doing things practically in a simulated work-like environment consisting of other team members (students whom they might have not met before), a design team, the client representatives (in this case, the participating NGO) and their mentor.
 
+> Read more about [the team](/team) putting this together and [the inspiration](/inspiration) behind this event.
+
 ## For NGO’s
 
 For NGO’s/charities, this event will help them get an online presence and various other technological benefits offered by non-profit programs, and thus, allow them to excel in the field they have been working tirelessly in and reach out to as many people possible.
