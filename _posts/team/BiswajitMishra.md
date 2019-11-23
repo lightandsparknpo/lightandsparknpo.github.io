@@ -1,5 +1,5 @@
 ---
-category: team
+category: squad
 full_name: Biswajit Mishra
 role: Mentor
 profile_picture: "/uploads/biswajitmishra-edited.jpg"
