@@ -33,11 +33,11 @@ fields:
   label: Use site title
   default: false
 pages:
+- about.md
 - index.md
 - inspiration.md
 - team.md
 - events.md
-- about.md
 - contact.md
 - nonprofits.md
 - sponsors.md
