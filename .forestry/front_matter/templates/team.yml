@@ -28,4 +28,4 @@ fields:
     required: false
   label: Category
   hidden: true
-  default: team
+  default: squad
