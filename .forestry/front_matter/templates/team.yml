@@ -29,3 +29,5 @@ fields:
   label: Category
   hidden: true
   default: squad
+pages:
+- _posts/team/VirtualUser.md
