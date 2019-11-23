@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .h2, h2 {
   font-size: 34px;
-  color: #0f2e42
+  color: {{ site.hover-col }};
 }
 a {
   color: {{ site.link-col }};
@@ -274,7 +274,7 @@ footer {
   background-image: url({{ site.footer-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
-  border-top: 7px solid #f64a06;
+  border-top: 7px solid {{ site.link-col }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -354,6 +354,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+  color: {{ site.link-col }};
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -824,7 +825,7 @@ pre {
 
 .formspree input[type=submit] {
     color: white;
-    background-color: #f64a06;
+    background-color: {{ site.link-col }};
     outline: 0;
     box-shadow: none;
     border: 0;
@@ -849,5 +850,5 @@ pre {
 
 .formspree input[type="text"]:focus, 
 .formspree input[type="email"]:focus {
-    outline-color: #f64a06;
+    outline-color: {{ site.link-col }};
 }
