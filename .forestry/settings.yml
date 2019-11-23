@@ -18,7 +18,7 @@ sections:
   - team
   - post
 - type: directory
-  path: _team
+  path: _posts/team
   label: Team
   create: all
   match: "**/*"
