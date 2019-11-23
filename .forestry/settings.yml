@@ -13,9 +13,8 @@ sections:
   - page
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   templates:
-  - team
   - post
 - type: directory
   path: _posts/team
