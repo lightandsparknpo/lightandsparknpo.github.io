@@ -833,6 +833,10 @@ pre {
 .formspree textarea {
     display: block;
     width: 60%;
+    margin-top: 4px;
+}
+
+.formspree label {
     margin-top: 18px;
 }
 
@@ -854,3 +858,8 @@ pre {
     display: block;
     margin: 18px 0;
 }
+
+.lnsnpo-active-button {
+  background-color: #f67418;
+}
+
