@@ -823,18 +823,6 @@ pre {
   margin-bottom: 24px;
 }
 
-.formspree input[type=submit] {
-    color: white;
-    background-color: {{ site.link-col }};
-    outline: 0;
-    box-shadow: none;
-    border: 0;
-    padding: 9px 17px;
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    display: block;
-    margin: 18px 0;
-}
-
 .formspree label {
   display:block;
 }
@@ -851,4 +839,18 @@ pre {
 .formspree input[type="text"]:focus, 
 .formspree input[type="email"]:focus {
     outline-color: {{ site.link-col }};
+}
+
+/* CUSTOM BUTTONS */
+
+.lnsnpo-active-button {
+    color: white;
+    background-color: {{ site.link-col }};
+    outline: 0;
+    box-shadow: none;
+    border: 0;
+    padding: 9px 17px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    display: block;
+    margin: 18px 0;
 }
