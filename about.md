@@ -2,7 +2,7 @@
 layout: page
 title: About
 subtitle: ''
-bigimg: "/uploads/adam-solomon-WHUDOzd5IYU-unsplash.jpg"
+bigimg: "/uploads/hello.jpg"
 formspree: false
 include-past-events: false
 include-upcoming-events: false
