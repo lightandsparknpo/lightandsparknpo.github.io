@@ -7,9 +7,12 @@ formspree: false
 include-past-events: false
 include-upcoming-events: false
 use-site-title: false
+meta-description: 'We''d love to partner with some generous hearts like yourself to
+  help put this event together and make a difference. '
+team: false
 
 ---
-For us to be able to pull off an event like this, we do require help from some good Samaritans like yourself. On this page, we’ve highlighted what we require to pull off an event like this, how can you help us with our requirements and what can we give you in return.
+For us to be able to pull off an event like this, we do require some financial help. On this page, we’ve highlighted what we require to put this event together, how can you help us with our requirements and what can we give you in return.
 
 ## What do we require?
 
@@ -28,6 +31,6 @@ We would really appreciate if you could back us up for the various aspects of th
 
 ## What can we give you in return?
 
-We’re more than happy to give you some branding/publicity in return on our social media pages, our website and a shout-out during the event too. The event will have about 150 people attending over a 2-day period but will also have a wider digital audience and not to forget, all those people who are impacted by giving the NGO’s a website.
+We’re more than happy to give you some branding/publicity in return on our social media pages, our website and a shout-out during the event too. The event will have about 50 people attending over a 2-day period but will also have a wider digital audience and not to forget, all those people who are impacted by giving the NGO’s a website.
 
 Yes, you can make a difference too. [Get in touch with us today](/contact)!

@@ -42,6 +42,7 @@ fields:
   label: Use site title
   default: false
 pages:
+- sponsors.md
 - nonprofits.md
 - index.md
 - inspiration.md
@@ -49,4 +50,3 @@ pages:
 - contact.md
 - about.md
 - events.md
-- sponsors.md
