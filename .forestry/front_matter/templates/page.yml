@@ -33,10 +33,10 @@ fields:
   label: Use site title
   default: false
 pages:
+- team.md
 - inspiration.md
 - about.md
 - index.md
-- team.md
 - events.md
 - contact.md
 - nonprofits.md
