@@ -2,3 +2,5 @@
 label: Partial views
 hide_body: false
 fields: []
+pages:
+- _includes/team.html
