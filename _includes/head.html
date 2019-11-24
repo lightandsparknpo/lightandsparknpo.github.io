@@ -51,9 +51,9 @@
   {% endif %}
   
   <title>{{ page_title }}</title> 
-  <meta name="description" content="{{ page.page_description }}">
-  <meta property="og:title" content="{{ page.page_title }}" />
-  <meta property="og:description" content="{{ page.page_description }}">
+  <meta name="description" content="{{ page_description }}">
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:description" content="{{ page_description }}">
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page_url }}" />
   <link rel="canonical" href="{{ page_url }}" />
@@ -66,7 +66,7 @@
   <meta name="twitter:title" content="{{ page_title }}" />
   <meta name="twitter:description" content="{{ page_description }}">
   <meta name="twitter:image" content="{{ page_share_image }}" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ page_title }}" href="{{ '/feed.xml' | absolute_url }}" />
 
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
