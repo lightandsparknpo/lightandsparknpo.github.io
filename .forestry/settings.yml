@@ -7,15 +7,13 @@ sections:
 - type: heading
   label: Content
 - type: jekyll-pages
-  label: Pages
+  label: Public pages
   create: all
   templates:
   - page
-- type: directory
-  path: _posts/events
+- type: jekyll-posts
   label: Events
-  create: all
-  match: "**/*"
+  create: documents
   new_doc_ext: md
   templates:
   - post
@@ -29,12 +27,6 @@ sections:
   - team
 - type: heading
   label: Developer content
-- type: jekyll-posts
-  label: All posts
-  create: documents
-  templates:
-  - team
-  - post
 - type: directory
   path: _includes
   label: Partial views
