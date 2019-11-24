@@ -38,6 +38,9 @@ navbar-links:
 # then specify the following parameter
 title-img: /uploads/lightandsparknpo.png
 
+# Site wide share image 
+share-img: /uploads/lnsnpo-siteteaser.jpg
+
 # Background colour/image options
 # ---------------------------------
 
