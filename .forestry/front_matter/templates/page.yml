@@ -42,11 +42,11 @@ fields:
   label: Use site title
   default: false
 pages:
+- nonprofits.md
 - index.md
 - inspiration.md
 - team.md
 - contact.md
 - about.md
 - events.md
-- nonprofits.md
 - sponsors.md

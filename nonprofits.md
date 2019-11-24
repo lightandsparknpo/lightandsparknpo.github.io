@@ -7,6 +7,10 @@ formspree: false
 include-past-events: false
 include-upcoming-events: false
 use-site-title: false
+meta-description: We'd love to partner with NGO's, non-profits or charities who are
+  actively working towards making the community a better space but do not have an
+  online presence.
+team: false
 
 ---
 We’d love to partner with NGO’s, non-profits or charities who are actively working towards making the community a better space but do not have an online presence.
