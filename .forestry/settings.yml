@@ -20,7 +20,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: _posts/team
+  path: _teams
   label: Team
   create: documents
   match: "**/*"
