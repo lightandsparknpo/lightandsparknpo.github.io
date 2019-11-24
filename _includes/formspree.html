@@ -1,16 +1,19 @@
+---
+
+---
 {% if site.formspree %}
 <form action="https://formspree.io/mayylpga" method="POST">
   <label>
     Name:
-    <input type="text" id="contact-fullname" name="name" maxlength="80">
+    <input type="text" id="contact-fullname" name="name" maxlength="80" required>
   </label>
   <label>
     Your email:
-    <input type="email" id="contact-email" name="_replyto">
+    <input type="email" id="contact-email" name="_replyto" required>
   </label>
   <label>
     Subject:
-    <select id="contact-subject" name="subject">
+    <select id="contact-subject" name="subject" required>
     	<option value="general enquiry" selected="selected">General enquiry</option>
         <option value="sponsorships">Sponsorships</option>
         <option value="ngo benefits">NGO benefits</option>
@@ -20,9 +23,10 @@
   </label>
   <label>
     Your message:
-    <textarea id="contact-message" name="message"></textarea>
+    <textarea id="contact-message" name="message" required></textarea>
   </label>
   <input type="hidden" name="_subject" value="Contact Us - Light & Spark NPO" />
+  <p><small>All fields are required</small></p>
   <input type="submit" value="Send" class="lnsnpo-active-button">
 </form>
 {% endif %}
