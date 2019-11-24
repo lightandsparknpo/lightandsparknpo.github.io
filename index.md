@@ -9,6 +9,7 @@ include-past-events: true
 include-upcoming-events: false
 bigimg: "/uploads/hands.jpg"
 team: false
+meta-description: ''
 
 ---
 ![](/uploads/WebsitePoster.png)
