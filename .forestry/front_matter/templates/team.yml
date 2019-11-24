@@ -1,6 +1,7 @@
 ---
 label: Team
 hide_body: true
+file_template: ":year:-:month:-:day:-:filename:"
 fields:
 - name: full_name
   type: text
