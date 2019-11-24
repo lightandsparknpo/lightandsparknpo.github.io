@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ".lightandsparknpo/dashboard.md"
   label: CMS Dashboard
-  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-pages
