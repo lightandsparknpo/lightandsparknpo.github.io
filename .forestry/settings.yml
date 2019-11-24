@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ".lightandsparknpo/dashboard.md"
   label: Dashboard
-  read_only: false
 - type: heading
   label: Content
 - type: jekyll-pages
