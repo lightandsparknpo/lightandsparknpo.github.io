@@ -6,11 +6,11 @@
 
   {% assign page_title="Light & Spark NPO" %}
   {% if page.use-site-title %}
-  {% page_title={{ site.title }} {{ site.title-separator }} {{ site.short-description }}  %}
+    {% capture page_title %}{{ site.title }} {{ site.title-separator }} {{ site.short-description }}{% endcapture %}
   {% elsif page.title %}
-  {% page_title={{ page.title }} {{ site.title-separator }} {{ site.title }}  %}
+    {% capture page_title %}{{ page.title }} {{ site.title-separator }} {{ site.title }}{% endcapture %}
   {% else %}
-  {% page_title={{ site.title }}  %}
+    {% capture page_title %}{{ site.title }}{% endcapture %}
   {% endif %}
   
   <title>{{ page_title }}</title> 
