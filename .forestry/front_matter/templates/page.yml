@@ -42,9 +42,9 @@ fields:
   label: Use site title
   default: false
 pages:
+- team.md
 - contact.md
 - about.md
-- team.md
 - inspiration.md
 - index.md
 - events.md
