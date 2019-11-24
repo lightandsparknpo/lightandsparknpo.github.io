@@ -14,6 +14,7 @@ sections:
   label: Public pages
   create: all
   templates:
+  - public-page-with-permalink
   - page
 - type: jekyll-posts
   label: Events
