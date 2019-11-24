@@ -27,7 +27,6 @@ fields:
   label: Sort order
   description: ''
   default: '99'
-  required: true
   config:
     min: 
     max: 
