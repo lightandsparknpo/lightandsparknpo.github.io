@@ -11,6 +11,15 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- name: meta-description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
 - name: bigimg
   type: file
   config:
