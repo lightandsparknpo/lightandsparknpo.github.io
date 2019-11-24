@@ -1,6 +1,12 @@
 ---
 label: Partial views
 hide_body: false
-fields: []
+fields:
+- name: page_type
+  type: text
+  config:
+    required: false
+  default: Partial view
+  label: Page type
 pages:
 - _includes/team.html
