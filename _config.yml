@@ -10,7 +10,8 @@ baseurl: ""
 # Custom collections
 # ---------------------------
 collections:
-  - teams
+  teams:
+    sort_by: sort_order
 
 # Local development options
 # ---------------------------
