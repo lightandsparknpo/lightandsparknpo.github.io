@@ -9,7 +9,7 @@ This is Forestry - Light & Spark NPO's website CMS portal. You can use this port
 
 If you've been added as a content author on this portal, you would require to only use the following:
 
-![](/uploads/cms.png)
+![](https://lightandsparknpo.github.io/uploads/cms.png)
 
 ### Content
 
