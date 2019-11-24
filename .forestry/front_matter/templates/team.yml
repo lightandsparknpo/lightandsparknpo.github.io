@@ -22,12 +22,15 @@ fields:
   config:
     required: false
   label: LinkedIn URL
-- name: category
-  type: text
+- name: sort_order
+  type: number
+  label: Sort order
+  description: ''
+  default: 0
+  required: true
   config:
-    required: false
-  label: Category
-  hidden: true
-  default: squad
+    min: 
+    max: 
+    step: 
 pages:
 - _posts/team/VirtualUserThree.md
