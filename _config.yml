@@ -116,7 +116,7 @@ gtag: "UA-109692931-2" # Fill in your Google Analytics gtag.js ID to track your 
 # disqus: "" # Disqus shortname 
 # just-comments: "ABCD-EFGH-IJKL" # API Key
 # fb_comment_id: "" # To use Facebook Comments, fill in a Facebook App ID
-# fb_app_id: ""
+fb_app_id: "935656959916307"
 excerpt_length: 50
 title-separator: "-"
 date_format: "%B %-d, %Y" # Ruby Date Format
