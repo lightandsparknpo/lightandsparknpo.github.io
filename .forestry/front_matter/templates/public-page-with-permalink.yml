@@ -1,4 +1,14 @@
 ---
 label: Public page with permalink
 hide_body: false
-fields: []
+fields:
+- name: inherit_page
+  type: include
+  config: {}
+  template: page
+  label: Inherit page
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
