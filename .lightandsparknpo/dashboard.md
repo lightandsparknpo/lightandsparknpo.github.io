@@ -5,7 +5,7 @@
 
 This is Forestry - Light & Spark NPO's website CMS portal. You can use this portal to edit content on the website without learning to code. 
 
-## Content authors
+## Editing content
 
 If you've been added as a content author on this portal, you would require to only use the following:
 
@@ -26,3 +26,7 @@ Media - This is where you will upload images.
 ### Support
 
 Opens up Forestry support. 
+
+## Requesting new content
+
+If you think you're after content that's not editable or doable using the portal given, then please contact Clyde D'Souza. 
