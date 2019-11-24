@@ -8,6 +8,9 @@ include-past-events: false
 include-upcoming-events: false
 use-site-title: false
 team: false
+meta-description: Light & Spark NPO is a non-profit educational event that aims at
+  teaching IT students industry relevant technologies and providing NGO's an online
+  presence.
 
 ---
 Light & Spark NPO is a non-profit educational initiative event that aims at teaching IT/Computer-Science students industry-relevant technologies like WordPress, Microsoft Azure, Agile Scrum, Google Analytics and much more, and also help them build a website for an NGO/Non-Profit over a period of 2 days.
