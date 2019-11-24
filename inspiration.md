@@ -8,6 +8,8 @@ include-past-events: false
 include-upcoming-events: false
 use-site-title: false
 team: false
+meta-description: Learn more about what inspired Light & Spark NPO and what does the
+  brand name mean.
 
 ---
 ## Inspiration behind Light & Spark NPO
@@ -20,4 +22,4 @@ Having studied and worked in Auckland, New Zealand, the founder and mentor of th
 
 The name Light & Spark NPO breaks down into 2 parts – _light_ symbolizes the knowledge we’re providing the students and _spark_ symbolizes the change we’re bringing for the participating NGO’s/non-profits/charities. Light & Spark’s events runs on a completely not-for-profit basis hence the _NPO_ suffixed at the end.
 
-_* At no service cost. Third party fees might be applicable. Any activity outside of the event will be chargeable._ 
+_* At no service cost. Third party fees might be applicable. Any activity outside of the event will be chargeable._
