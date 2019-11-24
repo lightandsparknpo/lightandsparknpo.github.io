@@ -6,8 +6,8 @@ webhook_url:
 sections:
 - type: document
   path: ".lightandsparknpo/dashboard.md"
-  label: CMS Dashboard
-  read_only: true
+  label: Dashboard
+  read_only: false
 - type: heading
   label: Content
 - type: jekyll-pages
