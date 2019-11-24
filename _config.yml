@@ -7,6 +7,10 @@ short-description: A Nonprofit Educational Initiative
 url: "https://lightandsparknpo.github.io"
 baseurl: ""
 
+# Custom collections
+# ---------------------------
+collections:
+  - teams
 
 # Local development options
 # ---------------------------
