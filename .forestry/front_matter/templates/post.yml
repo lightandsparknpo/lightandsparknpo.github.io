@@ -12,9 +12,13 @@ fields:
   name: subtitle
   label: Subtitle
 - name: meta-description
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Meta description
 - type: file
   name: bigimg
