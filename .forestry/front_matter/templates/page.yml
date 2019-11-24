@@ -42,7 +42,6 @@ fields:
   label: Use site title
   default: false
 pages:
-- 404.md
 - events.md
 - sponsors.md
 - nonprofits.md
