@@ -577,6 +577,10 @@ footer .theme-by {
   .intro-header.big-img .post-heading {
     display: none;
   }
+  .intro-header .page-heading .page-subheading,
+  .intro-header .post-heading .post-subheading {
+    color: {{ site.navbar-text-col }};
+  }
   .header-section.has-img .big-img {
     margin-bottom: 0;
   }
