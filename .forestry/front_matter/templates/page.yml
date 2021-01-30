@@ -23,7 +23,7 @@ fields:
 - name: bigimg
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Hero image
 - name: formspree
   type: boolean
@@ -42,11 +42,11 @@ fields:
   label: Use site title
   default: false
 pages:
+- about.md
+- contact.md
 - events.md
-- sponsors.md
-- nonprofits.md
 - index.md
 - inspiration.md
+- nonprofits.md
+- sponsors.md
 - team.md
-- contact.md
-- about.md
